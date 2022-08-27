@@ -1,0 +1,4 @@
+pAroLa;2
+cAsA;4
+ArcobalEno;5
+POrco;7
